@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://52.199.229.97:8081/repository/sample-snapshots/</url>
+		    <url>http://35.168.2.73:8081/repository/vinay-snapshots//</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://52.199.229.97:8081/repository/sample-releases/</url>
+		    <url>http://35.168.2.73:8081/repository/vinay-releases//</url>
 		</repository>
   	</distributionManagement>
 	
